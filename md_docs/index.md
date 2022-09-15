@@ -1,11 +1,9 @@
-# Hello
+# Service
 
-# 1
-## 2
-### 3
+Development, maintenance, and/or any suppotive work on source code-based scientific computing, specifically for applied physics, applied chemistry, semiconductor manufacturing, thin film processes, plasma processes.
 
-- Bulleted
-- List
-
-1. Numbered
-2. Second
+- Modelling of physical/chemical phenomena and implementation of new functions
+- Maintenance of source code on refactoring
+- Making execution/integration tests and unit tests
+- Making user interface and manuals
+- Organizing system environment
