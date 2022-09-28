@@ -7,3 +7,5 @@ Development, maintenance, and/or any suppotive work on source code-based scienti
 - Making execution/integration tests and unit tests
 - Making user interface and manuals
 - Organizing system environment
+
+Inquiry: yugoosanoj [at mark] gmail.com
